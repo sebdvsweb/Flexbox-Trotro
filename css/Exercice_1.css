@@ -1,0 +1,57 @@
+/* Import de la police de caractère Source Sans Pro */
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap");
+
+
+
+/* Conteneur général */
+.container {
+  width: 1140px;
+  margin: 0 auto;
+
+}
+
+/* Haut de page - y ajouter de la marge intérieure et une couleur de fond gris clair */
+header {
+
+}
+
+/* Div parente */
+/* Créer la flexbox en utilisant les propriétés CSS nécessaires */ 
+.section_1 {
+
+}
+
+/* Colonnes - Div enfants */
+
+
+/* Utiliser la propriété CSS flex pour une même largeur aux colonnes, ajouter une border fine grise, ajouter du margin et padding */
+
+.section_1 .column {
+
+}
+
+
+
+
+
+/* Style de base */
+
+
+img {
+  width:100%;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Source Sans Pro", sans-serif;
+  color: #444;
+}
+
+.demo {
+  display:block;
+  width:95%;
+  margin:20px auto;
+}
