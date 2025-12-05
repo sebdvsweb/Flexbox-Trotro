@@ -16,7 +16,7 @@ Tu dois uniquement utiliser **HTML + CSS (Flexbox)**.
 Reproduis **à l’identique avec Flexbox** la mise en page du schéma ci-dessous.  
 Respecte les alignements, les espacements et la disposition des blocs.
 
-![Schéma Exercice 2](https://sebastien-devos.fr/img/codegt/exercice-2-flexbox.png)
+![Schéma Exercice 2](https://sebastien-devos.fr/img/codegt/flexbox-sections.jpg)
 
 ---
 
