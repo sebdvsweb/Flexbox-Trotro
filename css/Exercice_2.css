@@ -13,24 +13,13 @@ body {
 
 /* Conteneur général */
 .wrapper {
-    padding: 5px;
-    max-width: 1120px;
-    width: 95%;
-    margin: 20px auto;
+    /* width à 1140px */
 }
 
 /* Haut de page, pied de page */
-header {
-    padding: 10px;
-    background: #eee;
-    margin: 5px 0;
-}
+header {}
 
-.column {
-    border: 1px solid black;
-    padding: 20px;;
-    margin: 5px;
-}
+.column {}
 
 /***** Section #1 *****/
 
@@ -38,17 +27,11 @@ header {
 
 .section_1 {
     display: flex;
-    margin: 5px 0;
 }
 
 /* Colonnes - Div enfants #1 */
 
-.section_1 .column {
-    flex: 1;
-    border: 1px solid gray;
-    margin: 2px;
-    padding: 10px;
-}
+.section_1 .column {}
 
 /***** Section #2 *****/
 
